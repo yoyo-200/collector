@@ -9,8 +9,8 @@ import (
 	"github.com/elastic/go-sysinfo"
 	"github.com/shirou/gopsutil/host"
 	machine "github.com/super-l/machine-code"
-	"github.com/yoyo-200/collector/collector/utils"
 	"github.com/yoyo-200/collector/machine/formatsize"
+	"github.com/yoyo-200/collector/utils"
 )
 
 // 系统基础信息

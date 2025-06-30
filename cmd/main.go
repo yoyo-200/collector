@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"gitee.com/yolzj/collector/machine/template"
+	"github.com/yoyo-200/collector/machine/template"
 )
 
 func main() {

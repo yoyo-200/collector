@@ -5,8 +5,8 @@ import (
 	"runtime"
 	"strings"
 
-	"gitee.com/yolzj/collector/machine/formatsize"
-	"gitee.com/yolzj/collector/utils"
+	"github.com/yoyo-200/collector/machine/formatsize"
+	"github.com/yoyo-200/collector/utils"
 
 	"github.com/shirou/gopsutil/disk"
 )

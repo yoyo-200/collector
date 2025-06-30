@@ -5,7 +5,7 @@ import (
 	"net"
 	"runtime"
 
-	"gitee.com/yolzj/collector/utils"
+	"github.com/yoyo-200/collector/collector/utils"
 )
 
 // 单网卡信息

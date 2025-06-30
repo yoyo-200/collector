@@ -1,10 +1,10 @@
 package template
 
 import (
-	"gitee.com/yolzj/collector/machine/cpu"
-	"gitee.com/yolzj/collector/machine/disk"
-	"gitee.com/yolzj/collector/machine/memory"
-	"gitee.com/yolzj/collector/machine/net"
+	"github.com/yoyo-200/collector/machine/cpu"
+	"github.com/yoyo-200/collector/machine/disk"
+	"github.com/yoyo-200/collector/machine/memory"
+	"github.com/yoyo-200/collector/machine/net"
 )
 
 type ITemplate interface {

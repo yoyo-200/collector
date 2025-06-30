@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"time"
 
-	"gitee.com/yolzj/collector/machine/base"
-	"gitee.com/yolzj/collector/machine/formatsize"
-	"gitee.com/yolzj/collector/utils"
+	"github.com/yoyo-200/collector/collector/utils"
+	"github.com/yoyo-200/collector/machine/base"
+	"github.com/yoyo-200/collector/machine/formatsize"
 
 	cpus "github.com/shirou/gopsutil/cpu"
 )

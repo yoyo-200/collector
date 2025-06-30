@@ -6,11 +6,11 @@ import (
 	"runtime"
 	"time"
 
-	"gitee.com/yolzj/collector/machine/formatsize"
-	"gitee.com/yolzj/collector/utils"
 	"github.com/elastic/go-sysinfo"
 	"github.com/shirou/gopsutil/host"
 	machine "github.com/super-l/machine-code"
+	"github.com/yoyo-200/collector/collector/utils"
+	"github.com/yoyo-200/collector/machine/formatsize"
 )
 
 // 系统基础信息
